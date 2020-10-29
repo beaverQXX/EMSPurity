@@ -1,0 +1,10 @@
+set_mut_sim(): max_len=2000000 REAL_len=2000000 mut_num = 2000 total mut=2000
+
+ ref1_len=2000000  ref1 var num = 1388 Var rate = 0.0006940000
+
+
+ ref2_len=2000000  ref2 var num = 1292 Var rate = 0.0006460000
+
+
+ Ref_len =2000000  all  var num = 2000 Var rate = 0.0010000000 AB_mode num= 1320 
+

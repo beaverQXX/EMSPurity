@@ -1,0 +1,9 @@
+
+ ref1_len=2000000  ref1 var num = 2464 Var rate = 0.0012320000
+
+
+ ref2_len=2000000  ref2 var num = 2344 Var rate = 0.0011720000
+
+
+ Ref_len =2000000  all  var num = 3600 Var rate = 0.0018000000 chged_files = 1600
+
